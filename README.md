@@ -1,1 +1,2 @@
 #HACKERTHON
+An FGM Alert App using SMS&USSD API
